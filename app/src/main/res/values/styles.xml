@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="DashboardCustomText" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/astra_blue</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:maxLines">100</item>
+    </style>
+
+    <style name="InfoRuangCustomText" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:maxLines">100</item>
+    </style>
+
+    <style name="IsiRuangCustomText" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+        <item name="android:textColor">@color/blackinforuang</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:maxLines">100</item>
+    </style>
+
+
+</resources>

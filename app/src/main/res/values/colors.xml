@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="astra_blue">#025aa5</color>
+    <color name="grey">#AAAAAA</color>
+    <color name="blackinforuang">#606060</color>
+
+    <!-- Temperature -->
+    <color name="temperature_track_color">#f71f14</color>
+    <color name="temperature_indicator_color">#03A9F4</color>
+
+    <!-- Humidity -->
+    <color name="humidity_track_color">#D3D3D3</color>
+    <color name="humidity_indicator_color">#8FBC8F</color>
+
+    <!-- Light -->
+    <color name="light_track_color">#FFD700</color>
+    <color name="light_indicator_color">#795548</color>
+
+    <!-- Power -->
+    <color name="power_track_color">#FF9800</color>
+    <color name="power_indicator_color">#FFD500</color>
+
+    <!-- Energy -->
+    <color name="energy_track_color">#8A2BE2</color>
+    <color name="energy_indicator_color">#FFD700</color>
+
+
+</resources>

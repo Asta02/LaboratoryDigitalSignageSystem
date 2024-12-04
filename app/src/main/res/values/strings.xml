@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LaboratoryDigitalSignageSystem</string>
+    <string name="lab_name">Laboratorium</string>
+    <string name="room_info_lecture">Mata Kuliah</string>
+    <string name="room_info_lecture_content">Mata Kuliah</string>
+    <string name="room_info_class">Kelas</string>
+    <string name="room_info_class_content">Kelas</string>
+    <string name="room_info_major">Program Studi</string>
+    <string name="room_info_major_content">Program Studi</string>
+    <string name="room_info_group">Regu</string>
+    <string name="room_info_regu_content">Regu</string>
+    <string name="room_info1">Informasi Ruangan</string>
+    <string name="dosen_info">Dosen Pengajar</string>
+    <string name="energy_info">Energi</string>
+    <string name="detail_info">Catatan</string>
+    <string name="dashboard_info">Grafik Penggunaan Energi</string>
+    <string name="nama_dosen1">Mada Jimmy F A, S.t, M.Sc.</string>
+    <string name="nama_dosen2">Ini nama dosen ke 2 M.IT</string>
+    <string name="nama_dosen3">Ini nama dosen ke 3 M.IT</string>
+</resources>
